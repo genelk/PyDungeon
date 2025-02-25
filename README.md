@@ -14,7 +14,8 @@ Technologies: Python, Pygame for visualization, NumPy for math operations
 
 A Python-based procedural dungeon generator inspired by Diablo's gothic aesthetic.
 
-![PyDungeon Screenshot](screenshots/placeholder.jpg)
+![PyDungeon Screenshot](https://github.com/user-attachments/assets/104a5fab-4df8-4b15-bd14-3fb26ec1f08e)
+
 
 ## Features
 
