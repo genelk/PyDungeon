@@ -44,9 +44,9 @@ A Python-based procedural dungeon generator inspired by Diablo's gothic aestheti
 
 1. Clone this repository
 2. Install the required dependencies:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 3. Run the main script:
-python main.py
+`python main.py`
 ## Controls
 
 - SPACE: Generate a new dungeon
