@@ -136,7 +136,7 @@ dungeon, generation_time = generator.generate()
 
 ## My C++ Learning Journey
 
-This project represents my journey learning C++ after having a strong Python background. Some key insights:
+This project represents my journey learning C++ after having a Python background. Some key insights:
 
 1. **Memory Management**: Learning to manage memory explicitly
 2. **Multi-threading**: Implementing parallel algorithms
