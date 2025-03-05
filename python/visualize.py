@@ -39,6 +39,12 @@ def main():
         parent_filename = os.path.join("..", filename)
         if os.path.exists(parent_filename):
             filename = parent_filename
+        else:
+        print(f"Error: Could not find dungeon file '{filename}' in current or parent directory.")
+        print("Please generate a dungeon using the C++ application first:")
+        print("  cd ../cpp && ./dungeon_generator")
+        pygame.quit()
+        sys.exit(1)
     
     # Load the dungeon
     dungeon = load_dungeon(filename)
