@@ -1,0 +1,33 @@
+# C++ build files
+cpp/build/
+cpp/.vs/
+cpp/Debug/
+cpp/Release/
+cpp/x64/
+cpp/*.sdf
+cpp/*.opensdf
+cpp/*.suo
+cpp/*.vcxproj.user
+cpp/*.db
+cpp/*.opendb
+cpp/ipch/
+
+# Python virtual environments
+python/venv/
+python/.venv/
+python/env/
+python/__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated dungeon files
+dungeon.txt
+*.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+Thumbs.db
