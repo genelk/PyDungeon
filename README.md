@@ -17,6 +17,9 @@ This architecture leverages the performance benefits of C++ for the generation a
 - Configurable dungeon size, room count, and room dimensions
 - Simple file format for exporting dungeon layouts
 - Visualization using Python and Pygame
+![Screenshot 2025-03-17 180227](https://github.com/user-attachments/assets/4b6ed3dd-b256-495d-aa75-30f2670797e2)
+
+
 
 ## Requirements
 
